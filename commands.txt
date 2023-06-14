@@ -1,1 +1,2 @@
 git init = initializing
+git status
